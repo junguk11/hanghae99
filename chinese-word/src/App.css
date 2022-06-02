@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Song+Myung&display=swap");
+
+.Title {
+  font-family: "Song Myung";
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.Main {
+  margin-bottom: 50px;
+}
